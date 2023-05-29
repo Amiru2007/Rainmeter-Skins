@@ -43,6 +43,6 @@ Thank you for downloading the Desktop Browser Rainmeter Skin! This skin allows y
 ==============================================
 
 - This Website Shortcut Rainmeter Skin was created by Amiru Weerathunga.
-- If you have any questions or feedback, you can reach me at (https://github.com/Amiru2007).
+- If you have any questions or feedback, you can reach me at (amirupek.w33rathunga@gmail.com).
 
 ==============================================
