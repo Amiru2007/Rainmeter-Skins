@@ -1,4 +1,9 @@
 # DESKTOP BROWSER
+![GitHub release](https://img.shields.io/github/v/release/Amiru2007/Desktop-Browser)
+![GitHub downloads](https://img.shields.io/github/downloads/Amiru2007/Desktop-Browser/total?color=2196F3)
+![GitHub stars](https://img.shields.io/github/stars/Amiru2007/Desktop-Browser)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://img.shields.io/github/license/Amiru2007/Desktop-Browser)
+
 
 Thank you for downloading the Desktop Browser Rainmeter Skin! This skin allows you to quickly access your favorite websites directly from your desktop using Rainmeter.
 
