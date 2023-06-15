@@ -33,7 +33,7 @@ Thank you for downloading the Desktop Browser Rainmeter Skin! This skin allows y
 4. **Customization:**
    - To customize the appearance of the skin, you can modify the values in the `.ini` file.
    - For more details: [Rainmeter Manual](https://docs.rainmeter.net/manual/).
-   - I give you a dark background image (`hsl(0, 50%, 0%)`) I used in my website link image that you can edit the photo with your URL.
+   - I give you a dark background image I used in my website link image that you can edit the photo with your URL.
    - For more details: [Rainmeter Official Site]([https://pages.github.com/](https://docs.rainmeter.net/manual/)).
 
 ## Troubleshooting
