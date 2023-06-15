@@ -13,8 +13,8 @@ Thank you for downloading the Desktop Browser Rainmeter Skin! This skin allows y
 
 ## Instructions
 
-1. **Installation:**
-   - Make sure you have Rainmeter installed on your computer. If you don't have it, you can download it from the official Rainmeter website (https://www.rainmeter.net).
+1. **Installation:** 
+   - Make sure you have Rainmeter installed on your computer. If you don't have it, you can download it from the official Rainmeter website [Rainmeter official site](https://www.rainmeter.net).
    - Download and extract the "Website Shortcut Skin" folder from the provided ZIP file.
 
 2. **Configuration:**
@@ -22,7 +22,6 @@ Thank you for downloading the Desktop Browser Rainmeter Skin! This skin allows y
    - Right-click the ini file and click 'edit' then you'll go to the rainmeter source code.
    - There in the `[Variables]` meter you can find the 'WebsiteURL' tag.
    - There you can change the website URL.
-   - I give you a background image I used in my website link image that you can edit the photo with your URL.
 
 3. **Loading the Skin:**
    - Go to rainmeter software icon in your system tray.
@@ -33,7 +32,9 @@ Thank you for downloading the Desktop Browser Rainmeter Skin! This skin allows y
 
 4. **Customization:**
    - To customize the appearance of the skin, you can modify the values in the `.ini` file.
-   - For more details: (https://docs.rainmeter.net/manual/).
+   - For more details: [Rainmeter Manual](https://docs.rainmeter.net/manual/).
+   - I give you a dark background image `hsl(0, 50%, 0%)` I used in my website link image that you can edit the photo with your URL.
+   - For more details: [Rainmeter Official Site]([https://pages.github.com/](https://docs.rainmeter.net/manual/)).
 
 ## Troubleshooting
 
