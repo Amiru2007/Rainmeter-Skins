@@ -1,0 +1,20 @@
+[Rainmeter]
+Update=1000
+
+[BG]
+Meter=Image
+SolidColor=255,255,255,100
+X=0
+Y=0
+W=200
+H=100
+
+[Games]
+Meter=Image
+ImageName=Extended/Icons/controler.png
+X=15
+Y=15
+H=30
+W=30
+Antialias=1
+LeftMouseUpAction=[!ActivateConfig "Game-bar/Modern Sidebar/Extended" "Games.ini"]
